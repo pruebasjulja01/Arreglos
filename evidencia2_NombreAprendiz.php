@@ -18,7 +18,7 @@
                 array("Nombres","Direccion","Telefono","Fecha de Cumpleaños","Color","Significado"),
                 array("Juan Perez","Carrera 42c #68 c 39","3146898190","08/12/1999","Blanco"),
                 array("Pedro Gonzales","Calle 8a #50 - 89","3202827678","07/04/2000", "Azul"),
-                array("Luis Rodriguez","Carrera 89c # 12 - 02","3107890087","01/01/2002",""),
+                array("Luis Rodriguez","Carrera 89c # 12 - 02","3107890087","01/01/2002","Rojo"),
             );
            
         // El ciclo for nos recorre y evalua los array 
